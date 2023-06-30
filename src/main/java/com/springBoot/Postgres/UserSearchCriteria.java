@@ -35,6 +35,5 @@ public class UserSearchCriteria {
         this.active = active;
     }
 
-    // Constructors, getter/setter methods
 }
 
